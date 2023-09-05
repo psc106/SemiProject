@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/psc/Scenes/Lobby.unity
+    guid: 4a27fb3084f2bf64ca9cd8e9cbb78471
+  - enabled: 1
+    path: Assets/psc/Scenes/Room1.unity
+    guid: 2cfcf112c9a71f241bb9b2aecc2699cc
+  - enabled: 1
+    path: Assets/psc/Scenes/Room2.unity
+    guid: 5f4772fb0b9f75143a212dfea4369c29
+  - enabled: 1
+    path: Assets/psc/Scenes/Room3.unity
+    guid: 4997726c1b180af45b3e356dc8e7ad14
+  - enabled: 1
+    path: Assets/psc/Scenes/Room4.unity
+    guid: 04b28e5d1708a3d44a9aabbae5bc81bd
   m_configObjects: {}
